@@ -1,0 +1,15 @@
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ImageViewer.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\ImageViewer.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ImageViewer.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ImageViewer.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+C:\Users\Melih\Documents\Visual Studio 2010\Projects\ImageViewer\ImageViewer\obj\x86\Debug\ImageViewer.Form1.resources
