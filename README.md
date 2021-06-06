@@ -1,1 +1,1 @@
-![Alt text](https://github.com/melihcan1376/ImageViewer/blob/main/imageviewer.png?raw=true "Image Viewer")
+![Alt text](https://github.com/melihcan1376/ImageViewer/blob/main/image.png?raw=true "Image Viewer")
