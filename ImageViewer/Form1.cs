@@ -34,7 +34,7 @@ namespace ImageViewer
                 {
                     i = 0;
                 }
-                pictureBox1.Image = imageList1.Images[i];
+                this.BackgroundImage = imageList1.Images[i];
             }
             catch {}
         }
@@ -46,7 +46,7 @@ namespace ImageViewer
                 i--;
                 if (i < 0)
                     i = 0;
-                pictureBox1.Image = imageList1.Images[i];
+                this.BackgroundImage = imageList1.Images[i];
             }
 
             catch {}
@@ -81,7 +81,7 @@ namespace ImageViewer
         {
             try
             {
-                pictureBox1.Image = imageList1.Images[i];
+                this.BackgroundImage = imageList1.Images[i];
                 i++;
                 if (i == imageList1.Images.Count)
                 {
